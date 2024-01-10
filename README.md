@@ -1,4 +1,4 @@
-#Cybersecurity Professional
+### Cybersecurity Professional
 
 ### Professional Summary:
 Cybersecurity warrior building impenetrable shields. Google IT Support Certified, project management whiz, and Master's degree candidate (Fall 2024), ready to take your data's security to the next level.
