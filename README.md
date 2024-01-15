@@ -36,7 +36,8 @@ Cenlar FSB, Ewing, NJ | Oct 2014 - Nov 2018
 - Collaborated on process improvements with a security-oriented approach.
 
 ### Projects: 
-Using Windowns and Linux / RDP and SSH : https://docs.google.com/document/d/1pW0yI7-a1B1BAykGZQ9YaIDu7VK_BjDL4zP7BDGZAlc/edit?usp=sharing
+[Using Windows and Linux / RDP and SSH](https://docs.google.com/viewer?url=https://github.com/AbbrinH/Portfolio/blob/af3868b4dce09c0e6a9899b9d681442f50490dd0/CST%20620%20Project%201%20Security%20Control%20Implementation%20-%20Abbrin%20Hoagland%20.pdf)
+
 
 
 ### Skills:
