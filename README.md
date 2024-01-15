@@ -37,6 +37,9 @@ Cenlar FSB, Ewing, NJ | Oct 2014 - Nov 2018
 
 ### Projects: 
 [Using Windows and Linux / RDP and SSH](https://github.com/AbbrinH/Portfolio/blob/af3868b4dce09c0e6a9899b9d681442f50490dd0/CST%20620%20Project%201%20Security%20Control%20Implementation%20-%20Abbrin%20Hoagland%20.pdf) 
+[Using Windows Firewall and Linux IPtables /Network Access Controls](https://github.com/AbbrinH/Portfolio/blob/af3868b4dce09c0e6a9899b9d681442f50490dd0/CST%20620%20Project%202%20Security%20Control%20Implementation%20-%20Abbrin%20Hoagland.pdf) 
+[Using OpenSSL and WAMP/Security Control](https://github.com/AbbrinH/Portfolio/blob/acd01ec4ee119f5edc84f04a3a3f6d1a5e5132f5/CST%20620%20Project%203%20Security%20Control%20Implementation%20-%20Abbrin%20Hoagland%20.pdf) 
+[Using Windows Local Account and Linux Local Account for Group Security](https://github.com/AbbrinH/Portfolio/blob/acd01ec4ee119f5edc84f04a3a3f6d1a5e5132f5/CST%20620%20Project%204%20Security%20Control%20Implementation-%20Abbrin%20Hoagland.pdf) 
 
 
 
