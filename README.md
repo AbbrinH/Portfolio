@@ -36,6 +36,8 @@ Cenlar FSB, Ewing, NJ | Oct 2014 - Nov 2018
 - Collaborated on process improvements with a security-oriented approach.
 
 ### Projects: 
+Using Windowns and Linux / RDP and SSH : https://docs.google.com/document/d/1pW0yI7-a1B1BAykGZQ9YaIDu7VK_BjDL4zP7BDGZAlc/edit?usp=sharing
+
 
 ### Skills:
 ### - Cybersecurity Skills: 
