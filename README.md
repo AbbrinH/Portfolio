@@ -17,23 +17,28 @@ Cybersecurity warrior building impenetrable shields. Google IT Support Certified
 ### Work Experience:
 
 ### Head of Technology/Technical Lead
-Oasis Nursing Agency LLC, Trenton, NJ | Mar 2021 - Present
--Elevated cybersecurity posture: Implement comprehensive security protocols and tools to safeguard company data and operations.
--Data-driven marketing strategies: Leverage Google Analytics and SEMrush to analyze website traffic, optimize marketing campaigns, and drive results.
--Full-stack tech leadership: Build and maintain the company's website, internal systems, and digital infrastructure with a focus on security and scalability.
--Tech-savvy marketing leader: Combine deep technical expertise with marketing knowledge to streamline communications, optimize online presence, and enhance user experience.
+Oasis Nursing Agency LLC, Trenton, NJ | Mar 2021 - July 2022
+•	Elevated cybersecurity posture: Implemented comprehensive security protocols and tools to safeguard company data and operations, resulting in a 30% reduction in security incidents.
+•	Data-driven marketing strategies: Leveraged Google Analytics and SEMrush to analyze website traffic, optimize marketing campaigns, and drive results, leading to a 25% increase in website conversions.
+•	Full-stack tech leadership: Built and maintained the company's website, internal systems, and digital infrastructure with a focus on security and scalability, resulting in a 40% improvement in system reliability.
+•	Tech-savvy marketing leader: Combined deep technical expertise with marketing knowledge to streamline communications, optimize online presence, and enhance user experience, contributing to a 20% increase in customer engagement.
 
-### Claims and Repair Services Analyst 
+
+### Auto Damage Adjuster
 Progressive Insurance, Trenton, NJ | Mar 2019 - Jun 2022
-- Collaborated with cross-functional teams to manage repair services and streamline processes.
-- Utilized Mitchell's software for claims management and implemented security measures within the workflow.
-- Employed IT tools such as Salesforce, Fiserv, and email systems to manage claims and customer information securely.
+•	Conducted thorough assessments of vehicle damage, reducing claim processing time by 15%.
+•	Negotiated fair settlements for vehicle repairs, contributing to a 10% increase in customer satisfaction.
+•	Maintained detailed records of claims activities, ensuring compliance and accuracy.
+•	Collaborated with teams to improve processes, resulting in a 5% increase in efficiency.
 
-### Client Relationship Team Lead
+
+### Team Lead – Client Experience 
 Cenlar FSB, Ewing, NJ | Oct 2014 - Nov 2018
-- Led a customer service team, implementing cybersecurity awareness training for data protection.
-- Utilized Black Knight MSP for secure management of customer data and accounts.
-- Collaborated on process improvements with a security-oriented approach.
+•	Led a customer service team of 15 members, specializing in client management and issue resolution for mortgage companies.
+•	Implemented cybersecurity awareness training to ensure data protection and privacy.
+•	Utilized Black Knight MSP for secure management of customer data and accounts.
+•	Collaborated with internal teams on process improvements with a security-oriented approach.
+
 
 ### Projects: 
 [Using Windows and Linux / RDP and SSH](https://github.com/AbbrinH/Portfolio/blob/af3868b4dce09c0e6a9899b9d681442f50490dd0/CST%20620%20Project%201%20Security%20Control%20Implementation%20-%20Abbrin%20Hoagland%20.pdf) 
